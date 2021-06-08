@@ -76,8 +76,8 @@ h1 {
 
 p {
   font-size: 18px;
-  color: #00b4d8;
-  text-shadow: 2px 2px #023e8a
+  color: #608009;
+  text-shadow: 2px 2px #035815
 }
 
 #MP {
@@ -100,7 +100,7 @@ p {
 
 .GB:hover,
 .GB:active {
-  background-color: #023e8a;
+  background-color: #023a0b;
 }
 
 .Resize {
